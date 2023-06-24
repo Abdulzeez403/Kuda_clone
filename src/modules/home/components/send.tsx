@@ -130,7 +130,6 @@ const SendScreen = () => {
                             />
                         </View>
 
-
                     </View>
 
                 </View>
